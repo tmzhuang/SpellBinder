@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="SpellBinder" header="SpellBinder">
+		SpellBinder:Toggle()
+	</Binding>
+</Bindings>
